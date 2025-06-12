@@ -1,6 +1,6 @@
 # Weather-Responsive-Plant-Care-System
 The Weather-Responsive Plant Care  System is designed to provide optimal care for plants based on real-time weather conditions. This helps people whom are taking care of plants to have better awareness of the weather.
-so the project is to follow this requirement 
+so this is how the project will work, ive broke it down to 4 requirement so follow this requirement 
 
 Requirement 1(temperature and humidity monitoring):
   equipment: DHT11,OLED
